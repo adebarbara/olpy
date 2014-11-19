@@ -8,7 +8,7 @@ Installation
 
 .. code-block:: bash
     
-    # pip install olpy
+    # pip install git+https://github.com/adebarbara/olpy
 
 Getting Started
 ===============
