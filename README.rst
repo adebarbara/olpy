@@ -15,14 +15,6 @@ Getting Started
 
 To interact with Online Labs, you first need .. a online labs account.
 
-Keys and tokens can be set either as Env variables, or within the code.
-
-For API v.2.
-
-.. code-block:: bash
-
-    # export DO_API_TOKEN='api_token'
-
 .. code-block:: pycon
 
     >>> from olpy.manager import OlManager
